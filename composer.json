@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "gngstyle\\content\\": "src"
+      "gngstyle\\project\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "gngstyle\\content\\tests\\": "tests"
+      "gngstyle\\project\\tests\\": "tests"
     }
   },
   "repositories": [
