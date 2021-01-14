@@ -1,1 +1,1 @@
-<?php
+<?php "module ext ok"?>

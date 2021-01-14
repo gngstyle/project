@@ -1,7 +1,7 @@
 {
   "name": "gngstyle/project",
   "description": "Project Module",
-  "type": "project extension",
+  "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
